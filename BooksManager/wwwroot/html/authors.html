@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>BooksManager</title>
+    <link rel="stylesheet" href="../css/basicstyles.css" />
+    <link rel="stylesheet" href="../css/books.css" />
+</head>
+
+<body class="Parent PageBackground ContentScroll">
+    <form>
+        <table class="Parent MenuBackground">
+            <tr>
+                <td align="left">
+                    <label name="personName" class="MenuHeader">
+                    </label>
+                </td>
+                <td align="right">
+                    <input type="button"
+                           class="ContentButton LogoutButton ContentButtonFontsizeSubhead"
+                           onclick="location.href='/logout'"
+                           value="Выйти" />
+                </td>
+            </tr>
+        </table>
+        <table class="Parent">
+            <tr>
+                <td align="center" valign="top" class="NavigationContentRegion">
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/home">Домашняя</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/books">Посмотреть книги</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/authors">
+                        Посмотреть авторов
+                    </a> <br />
+                    <a name="editor" class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/editor">Редактирование</a> <br />
+                    <a name="admin" class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/admin">Администрирование</a> <br />
+                </td>
+                <td valign="top" class="HomeContentRegion">
+                    <table name="elementCollection" class="Parent RegistrationForm">
+
+                    </table>
+                </td>
+            </tr>
+    </form>
+</body>
+
+</html>

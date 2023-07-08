@@ -1,0 +1,132 @@
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\appsettings.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.staticwebassets.runtime.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.exe
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.deps.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.runtimeconfig.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.pdb
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.csproj.AssemblyReference.cache
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.AssemblyInfoInputs.cache
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.AssemblyInfo.cs
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.csproj.CoreCompileInputs.cache
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.BooksManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.build.BooksManager.props
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BooksManager.props
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BooksManager.props
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\scopedcss\bundle\BooksManager.styles.css
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.csproj.CopyComplete
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\refint\BooksManager.dll
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.pdb
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.genruntimeconfig.cache
+C:\Users\Leere\source\repos\BooksManager\BooksManager\obj\Debug\net7.0\ref\BooksManager.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\appsettings.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.staticwebassets.runtime.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.exe
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.deps.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.runtimeconfig.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\BooksManager.pdb
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.csproj.AssemblyReference.cache
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.AssemblyInfoInputs.cache
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.AssemblyInfo.cs
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.csproj.CoreCompileInputs.cache
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.BooksManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.build.BooksManager.props
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BooksManager.props
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BooksManager.props
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\scopedcss\bundle\BooksManager.styles.css
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.csproj.CopyComplete
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\refint\BooksManager.dll
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.pdb
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\BooksManager.genruntimeconfig.cache
+C:\Users\Leere\Desktop\Новая папка (2)\BooksManager\BooksManager\obj\Debug\net7.0\ref\BooksManager.dll

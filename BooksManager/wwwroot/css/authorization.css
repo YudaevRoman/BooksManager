@@ -1,0 +1,41 @@
+.AuthorizationForm {
+    margin-left: 25%;
+    margin-top: 6%;
+    width: 50%;
+}
+
+.AuthorizationContent {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    width: 65%;
+}
+
+.AuthorizationLabel {
+    margin-top: 3%;
+}
+
+.AuthorizationInput {
+    margin-left: 0.8%;
+    margin-top: 3%;
+    width: 92.9%;
+}
+
+.AuthorizationButton {
+    margin-top: 6%;
+    width: 100%;
+}
+
+.RegistrationButton {
+    background-color: rgb(6, 104, 14);
+    border: solid rgb(6, 104, 14);
+    margin-top: 2%;
+    width: 100%;
+}
+
+.RegistrationButton:hover {
+    background-color: rgb(19, 134, 29);
+    border: solid rgb(19, 134, 29);
+    margin-top: 2%;
+    width: 100%;
+}

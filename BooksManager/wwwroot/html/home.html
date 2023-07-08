@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>BooksManager</title>
+    <link rel="stylesheet" type="text/css" href="../css/basicstyles.css" />
+    <link rel="stylesheet" type="text/css" href="../css/home.css" />
+</head>
+
+<body class="Parent PageBackground ContentScroll">
+    <form>
+        <table class="Parent MenuBackground">
+            <tr>
+                <td align="left">
+                    <label class="MenuHeader">
+                        Домашняя
+                    </label>
+                </td>
+                <td align="right">
+                    <input 
+                           type="button"
+                           class=
+                           "ContentButton LogoutButton ContentButtonFontsizeSubhead" 
+                           onclick="location.href='/logout'" 
+                           value="Выйти" />
+                </td>
+            </tr>
+        </table>
+        <table class="Parent">
+            <tr>
+                <td align="center" valign="top" class="NavigationContentRegion">
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/home">Домашняя</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/books">Посмотреть книги</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/authors">
+                        Посмотреть авторов
+                    </a> <br />
+                    <a name="editor" class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/editor">Редактирование</a> <br />
+                    <a name="admin" class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/admin">Администрирование</a> <br />
+                </td>
+                <td valign="top" class="HomeContentRegion">
+                    <table class="Parent">
+                        <tr>
+                            <td>
+                                <table class="Parent">
+                                    <tr class="HomeContentUserRegion">
+                                        <td class="HomeContentUserImage">
+                                            <fieldset class="Parent ContentRegion HomeUseImage">
+                                                <img name="personImageUrl" src="" class="UseImage" />
+                                            </fieldset>
+                                        </td>
+                                        <td class="HomeContentUserText">
+                                            <fieldset class="ContentRegion">
+                                                <table class="Parent">
+                                                    <tr>
+                                                        <td>
+                                                            <label class="ContentLabel MenuHeader HomeUserText">
+                                                                Логин:
+                                                            </label> <br />
+                                                            <label class="ContentLabel ContentLabelFontsizeText HomeUserText">
+                                                                Роль:
+                                                            </label> <br />
+                                                        </td>
+                                                        <td>
+                                                            <label name="personName"
+                                                                   class="ContentLabel MenuHeader HomeUserText">
+                                                            </label> <br />
+                                                            <label name="personRole"
+                                                                   class="ContentLabel ContentLabelFontsizeText HomeUserText">
+                                                            </label> <br />
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </fieldset>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table class="Parent">
+                                    <tr>
+                                        <td align="left">
+                                            <label class="ContentLabel ContentLabelFontsizeSubhead HomeUserBooksLabel">
+                                                Список добавленных книг
+                                            </label>
+                                        </td>
+                                        <td align="right">
+                                            <input type="button"
+                                                   class="ContentButton RegistrationButton ContentButtonFontsizeSubhead"
+                                                   onclick="location.href='/addedbook'"
+                                                   value="Добавить книгу" />
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <fieldset class="Parent ContentRegion">
+                                    <table class="Parent" name="elementCollection">
+
+                                    </table>
+                                </fieldset>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

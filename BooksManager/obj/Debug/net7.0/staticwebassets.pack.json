@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\addedbook.css",
+      "PackagePath": "staticwebassets\\css\\addedbook.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\author.css",
+      "PackagePath": "staticwebassets\\css\\author.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\authorization.css",
+      "PackagePath": "staticwebassets\\css\\authorization.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\basicstyles.css",
+      "PackagePath": "staticwebassets\\css\\basicstyles.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\book.css",
+      "PackagePath": "staticwebassets\\css\\book.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\books.css",
+      "PackagePath": "staticwebassets\\css\\books.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\addedauthor.html",
+      "PackagePath": "staticwebassets\\html\\addedauthor.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\addedbook.html",
+      "PackagePath": "staticwebassets\\html\\addedbook.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\author.html",
+      "PackagePath": "staticwebassets\\html\\author.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\authorization.html",
+      "PackagePath": "staticwebassets\\html\\authorization.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\authors.html",
+      "PackagePath": "staticwebassets\\html\\authors.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\book.html",
+      "PackagePath": "staticwebassets\\html\\book.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\books.html",
+      "PackagePath": "staticwebassets\\html\\books.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\home.html",
+      "PackagePath": "staticwebassets\\html\\home.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\registration.html",
+      "PackagePath": "staticwebassets\\html\\registration.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\html\\username.html",
+      "PackagePath": "staticwebassets\\html\\username.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\authors\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\authors\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\books\\0.png",
+      "PackagePath": "staticwebassets\\image\\books\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\books\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\books\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\default.jpg",
+      "PackagePath": "staticwebassets\\image\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\persons\\0.png",
+      "PackagePath": "staticwebassets\\image\\persons\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\persons\\6.png",
+      "PackagePath": "staticwebassets\\image\\persons\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\image\\persons\\7.png",
+      "PackagePath": "staticwebassets\\image\\persons\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\tmp\\3.html",
+      "PackagePath": "staticwebassets\\tmp\\3.html"
+    },
+    {
+      "Id": "C:\\Users\\Leere\\Desktop\\Новая папка (2)\\BooksManager\\BooksManager\\wwwroot\\tmp\\4.html",
+      "PackagePath": "staticwebassets\\tmp\\4.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BooksManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BooksManager.props",
+      "PackagePath": "build\\BooksManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksManager.props",
+      "PackagePath": "buildMultiTargeting\\BooksManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BooksManager.props",
+      "PackagePath": "buildTransitive\\BooksManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

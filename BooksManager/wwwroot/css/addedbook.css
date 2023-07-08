@@ -1,0 +1,130 @@
+.AddedContentRegion {
+    width: 80%;
+}
+
+.AddedContentBookRegion {
+    position: relative;
+}
+
+.AddedContentBookImage {
+    position: absolute;
+    width: 35%;
+    height: 100%;
+}
+
+.AddedContentBookText {
+    width: 65%;
+}
+
+.AddedBookImage {
+    width: 100%;
+    height: 100%;
+}
+
+.BookImage {
+    border-radius: 20px;
+    margin: 5.6%;
+    margin-top: 3.8%;
+    width: 88%;
+    height: 88%;
+    object-fit: scale-down;
+}
+
+.AddedBookText {
+    width: 25%;
+}
+
+.AddedBookInput {
+    width: 25%;
+}
+
+.AddedBookButton {
+    width: 45%;
+}
+
+.BookContentText {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.BookContentInput {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 95%;
+}
+
+.BookContentButton {
+    margin-top: 2.8%;
+    width: 50%;
+}
+
+.BookContent {
+    width: 33%;
+}
+
+.AddedBookCategorys {
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 84%;
+    height: 300px;
+    min-height: 200px;
+    max-height: 400px;
+}
+
+.AddedBookCategory {
+    margin: 0%;
+    margin-bottom: 1%;
+    margin-right: 2%;
+    height-min: 25px;
+    max-inline-size: 100px;
+    width: 70%;
+    border-radius: 20px;
+    border: solid rgb(156, 104, 25);
+    background-color: rgb(156, 104, 25);
+}
+
+.AddedBookCategotysButton {
+    margin: 5%;
+}
+
+.CheckBoxContent {
+    margin: 1%;
+    height: 17px;
+    width: 17%
+}
+
+.AddedBookDdescription {
+    padding: 5%;
+    padding-right: 4;
+    margin: 5%;
+    resize: none;
+    width: 80%;
+    height: 300px;
+    min-height: 200px;
+    max-height: 400px;
+}
+
+.AdddedCategory {
+    margin: 1%;
+    white-space: nowrap;
+    height: 55px;
+    display: flex;
+    min-width: 100px;
+    max-width: 310px;
+}
+
+.ContentCategoryInput {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+}
+
+.ContentCategoryButton {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+}

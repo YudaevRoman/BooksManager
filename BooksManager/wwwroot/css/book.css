@@ -1,0 +1,23 @@
+.GetBookCategorys {
+    margin-left: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 84%;
+    height: 340px;
+    min-height: 230px;
+    max-height: 400px;
+}
+
+.GetBookCategory {
+    margin: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 2%;
+    height: 25px;
+    width: 70%;
+    min-width: 230px;
+    max-width: 300px;
+    border-radius: 20px;
+    border: solid rgb(156, 104, 25);
+    background-color: rgb(156, 104, 25);
+}

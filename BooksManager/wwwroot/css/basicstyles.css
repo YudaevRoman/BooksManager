@@ -1,0 +1,133 @@
+.Parent {
+    border: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.PageBackground {
+    background-color: rgb(51, 32, 3);
+}
+
+.ContentScroll {
+    overflow: auto;
+}
+
+.ContentScroll::-webkit-scrollbar {
+    width: 12px;
+}
+
+.ContentScroll::-webkit-scrollbar-track {
+    background-color: rgb(51, 32, 3);
+    border-radius: 20px;
+}
+
+.ContentScroll::-webkit-scrollbar-thumb {
+    background-color: rgb(207, 109, 28);
+    border-radius: 20px;
+}
+
+.MenuBackground {
+    background-color: rgb(104, 63, 2);
+}
+
+.MenuHeader {
+    display: inline-block;
+    color: rgb(212, 205, 194);
+    font-size: 24pt;
+    margin: 0.8%;
+    margin-left: 2%;
+}
+
+.NavigationContentRegion {
+    width: 15%;
+}
+
+.NavigationContent {
+    margin: 0.8%;
+    margin-top: 18%;
+}
+
+.ContentRegion {
+    background-color: rgba(104, 63, 2, 0.507);
+    border: rgba(73, 45, 2, 0.507);
+    border-radius: 25px;
+}
+
+.ContentButton {
+    background-color: rgb(126, 95, 50);
+    border: solid rgb(126, 95, 50);
+    color: rgb(212, 205, 194);
+    border-radius: 25px;
+}
+
+.ContentButton:hover {
+    background-color: rgb(146, 114, 65);
+    border: solid rgb(146, 114, 65);
+    color: rgb(212, 205, 194);
+    border-radius: 25px;
+}
+
+.LogoutButton {
+    background-color: rgb(175, 84, 9);
+    border: solid rgb(175, 84, 9);
+    margin: 0.8%;
+    margin-right: 2%;
+}
+
+.LogoutButton:hover {
+    background-color: rgb(207, 109, 28);
+    border: solid rgb(207, 109, 28);
+    margin: 0.8%;
+    margin-right: 2%;
+}
+
+.InputFileButton {
+    min-width: 200px;
+    max-width: 600px;
+    width: 100%;
+    margin-right: 10%;
+}
+
+.ContentButtonFontsizeSubhead {
+    font-size: 16pt;
+}
+
+.ContentButtonFontsizeText {
+    font-size: 12pt;
+}
+
+.ContentLabel {
+    display: inline-block;
+    color: rgb(212, 205, 194);
+}
+
+.ContentLabelMarginDefault {
+    margin: 0.8%;
+    margin-left: 2%;
+}
+
+.ContentLabelFontsizeSubhead {
+    font-size: 18pt;
+}
+
+.ContentLabelFontsizeText {
+    font-size: 14pt;
+}
+
+.ContentInput {
+    background-color: rgb(71, 49, 15);
+    border: solid rgb(146, 114, 65);
+    color: rgb(212, 205, 194);
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ContentInputFontsizeSubhead {
+    font-size: 16pt;
+}
+
+.ContentInputFontsizeText {
+    font-size: 12pt;
+}

@@ -1,0 +1,97 @@
+.HomeContentRegion {
+    width: 80%;
+}
+
+.HomeContentUserRegion {
+    position: relative;
+}
+
+.HomeContentUserImage {
+    position: absolute;
+    width: 26%;
+    height: 100%;
+}
+
+.HomeContentUserText {
+    width: 74%;
+}
+
+.HomeUseImage {
+    width: 100%;
+    height: 100%;
+}
+
+.UseImage {
+    border-radius: 20px;
+    margin: 5.6%;
+    margin-top: 3.8%;
+    width: 88%;
+    height: 88%;
+    object-fit: scale-down;
+}
+
+.HomeUserText {
+    margin: 4%;
+}
+
+.HomeUserBooksLabel {
+    margin: 0.8%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.HomeContextUserBook {
+    margin: 5%;
+    width: 88%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.HomeContentBookImage {
+    width: 20%;
+}
+
+.HomeBookImage {
+    margin: 5%;
+    margin-top: 3.3%;
+    width: 88%;
+    height: 88%;
+    object-fit: scale-down;
+}
+
+.HomeBookInfo {
+    margin: 0.8%;
+    width: 65%;
+}
+
+.HomeBookCategorys {
+    margin-right: 5%;
+    margin-bottom: 5%;
+    white-space: nowrap;
+    height: 55px;
+    display: flex;
+    min-width: 200px;
+    max-width: 400px;
+}
+
+.HomeBookCategory {
+    margin: 0%;
+    margin-bottom: 1%;
+    margin-right: 2%;
+    height: 25px;
+    width: 70%;
+    border-radius: 20px;
+    border: solid rgb(156, 104, 25);
+    background-color: rgb(156, 104, 25);
+}
+
+.HomeBookAction {
+    margin-top: 15%;
+    margin-bottom: 8%;
+    width: 90%;
+    height: 90%;
+}
+
+.SeparatorLineBorder {
+    width: 100%;
+}

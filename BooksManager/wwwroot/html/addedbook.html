@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>BooksManager</title>
+    <link rel="stylesheet" href="../css/basicstyles.css" />
+    <link rel="stylesheet" href="../css/addedbook.css" />
+</head>
+
+<body class="Parent PageBackground ContentScroll">
+    <form method="post" enctype="multipart/form-data">
+        <input id="check" name="checkButton" style="display: none" />
+        <table class="Parent MenuBackground">
+            <tr>
+                <td align="left">
+                    <label name="personName" class="MenuHeader">
+                    </label>
+                </td>
+                <td align="right">
+                    <input type="button" class="ContentButton LogoutButton ContentButtonFontsizeSubhead"
+                           onclick="location.href='/logout'" value="Выйти" />
+                </td>
+            </tr>
+        </table>
+        <table class="Parent">
+            <tr>
+                <td align="center" valign="top" class="NavigationContentRegion">
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/home">Домашняя</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/books">
+                        Посмотреть
+                        книги
+                    </a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/authors">
+                        Посмотреть авторов
+                    </a> <br />
+                    <a name="editor" class="ContentLabel ContentLabelFontsizeText NavigationContent"
+                       href="/editor">Редактирование</a> <br />
+                    <a name="admin" class="ContentLabel ContentLabelFontsizeText NavigationContent"
+                       href="/admin">Администрирование</a> <br />
+                </td>
+                <td valign="top" class="AddedContentRegion">
+                    <table class="Parent">
+                        <tr>
+                            <td>
+                                <fieldset class="Parent ContentRegion AddedBookImage" style="display: flex;">
+                                    <input name="bookImageUrl" type="file" class="ContentButton" />
+                                    <table class="Parent">
+                                        <tr>
+                                            <td align="left" class="Parent AddedBookText">
+                                                <label class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                    Название книги
+                                                </label> <br />
+                                                <label class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                    Год издания
+                                                </label> <br />
+                                            </td>
+                                            <td align="left" class="Parent AddedBookInput">
+                                                <input name="bookName" autocomplete="off"
+                                                       class="ContentInput ContentInputFontsizeSubhead BookContentInput" />
+                                                <br />
+                                                <input name="bookYear" maxlength="4" autocomplete="off"
+                                                       class="ContentInput ContentInputFontsizeSubhead BookContentInput" />
+                                                <br />
+                                            </td>
+                                            <td align="right" valign="top" class="Parent AddedBookButton">
+                                                <input type="submit"
+                                                       class="ContentButton ContentButtonFontsizeSubhead BookContentButton"
+                                                       value="Добавить книгу"
+                                                       onclick="document.getElementById('check').value = 'addBook';" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </fieldset>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table class="Parent">
+                                    <tr>
+                                        <td align="center" class="BookContent">
+                                            <fieldset name="elementCollection_Categories" class="Parent ContentRegion">
+                                                <fieldset class="Parent ContentScroll AddedBookCategorys PageBackground">
+                                                    <legend align="center"
+                                                            class="ContentLabel ContentLabelFontsizeSubhead Parent">
+                                                        Категории
+                                                    </legend>
+
+                                                </fieldset>
+                                                <fieldset class="Parent AdddedCategory">
+                                                    <input type="submit"
+                                                           value="Добавить"
+                                                           class="ContentButton ContentButtonFontsizeText ContentCategoryButton"
+                                                           onclick="document.getElementById('check').value = 'category';" />
+                                                    <input name="categoryName" class="ContentInput ContentInputFontsizeText ContentCategoryInput" style="min-width: 50px" />
+                                                    <br />
+                                                </fieldset>
+                                            </fieldset>
+                                        </td>
+                                        <td align="center" class="BookContent">
+                                            <fieldset name="elementCollection_Authors" class="Parent ContentRegion">
+                                                <fieldset class="Parent ContentScroll AddedBookCategorys PageBackground">
+                                                    <legend align="center"
+                                                            class="ContentLabel ContentLabelFontsizeSubhead Parent">
+                                                        Авторы
+                                                    </legend>
+
+                                                </fieldset>
+                                                <input type="submit"
+                                                       value="Добавить автора"
+                                                       class="ContentButton ContentButtonFontsizeText ContentCategoryButton"
+                                                           onclick="document.getElementById('check').value = 'author';" />
+                                            </fieldset>
+                                        </td>
+                                        <td align="center" class="BookContent">
+                                            <fieldset class="Parent ContentRegion">
+                                                <textarea name="description" class="
+                                                    Parent
+                                                    PageBackground
+                                                    ContentLabel
+                                                    ContentLabelFontsizeText
+                                                    ContentScroll
+                                                    AddedBookDdescription
+                                                    "></textarea>
+                                            </fieldset>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>

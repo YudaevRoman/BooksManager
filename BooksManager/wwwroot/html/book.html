@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>BooksManager</title>
+    <link rel="stylesheet" href="../css/basicstyles.css" />
+    <link rel="stylesheet" href="../css/addedbook.css" />
+    <link rel="stylesheet" href="../css/book.css" />
+</head>
+
+<body class="Parent PageBackground ContentScroll">
+    <form>
+        <table class="Parent MenuBackground">
+            <tr>
+                <td align="left">
+                    <label name="personName" class="MenuHeader">
+                    </label>
+                </td>
+                <td align="right">
+                <td align="right">
+                    <input type="button"
+                           class="ContentButton LogoutButton ContentButtonFontsizeSubhead"
+                           onclick="location.href='/logout'"
+                           value="Выйти" />
+                </td>
+            </tr>
+        </table>
+        <table class="Parent">
+            <tr>
+                <td align="center" valign="top" class="NavigationContentRegion">
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/home">Домашняя</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/books">Посмотреть книги</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="/authors">
+                        Посмотреть авторов
+                    </a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="">Редактирование</a> <br />
+                    <a class="ContentLabel ContentLabelFontsizeText NavigationContent" href="">Администрирование</a> <br />
+                </td>
+                <td valign="top" class="AddedContentRegion">
+                    <table class="Parent">
+                        <tr>
+                            <td>
+                                <table class="Parent">
+                                    <tr class="AddedContentBookRegion">
+                                        <td class="AddedContentBookImage">
+                                            <fieldset class="Parent ContentRegion AddedBookImage">
+                                                <img name="bookImageUrl" src="" class="BookImage" />
+                                            </fieldset>
+                                        </td>
+                                        <td class="AddedContentBookText">
+                                            <fieldset class="ContentRegion">
+                                                <table class="Parent">
+                                                    <tr>
+                                                        <td align="left" class="Parent AddedBookText">
+                                                            <label class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                                Название книги
+                                                            </label> <br />
+                                                            <label class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                                Год издания
+                                                            </label> <br />
+                                                            <label class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                                Добавил
+                                                            </label> <br />
+                                                        </td>
+                                                        <td align="left" class="Parent AddedBookInput">
+                                                            <label name="bookName" class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                            </label> <br />
+                                                            <label name="bookDate" class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                            </label> <br />
+                                                            <label name="bookPerson" class="ContentLabel ContentLabelFontsizeSubhead BookContentText">
+                                                            </label> <br />
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </fieldset>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table class="Parent">
+                                    <tr>
+                                        <td align="center" class="BookContent">
+                                            <fieldset name="elementCollection_Categories" class="Parent ContentRegion">
+                                                <fieldset class="Parent ContentScroll GetBookCategorys PageBackground">
+                                                    <legend align="center"
+                                                            class="ContentLabel ContentLabelFontsizeSubhead Parent">
+                                                        Категории
+                                                    </legend>
+
+                                                </fieldset>
+                                            </fieldset>
+                                        </td>
+                                        <td align="center" class="BookContent">
+                                            <fieldset name="elementCollection_Authors" class="Parent ContentRegion">
+                                                <fieldset class="Parent ContentScroll GetBookCategorys PageBackground">
+                                                    <legend align="center"
+                                                            class="ContentLabel ContentLabelFontsizeSubhead Parent">
+                                                        Авторы
+                                                    </legend>
+
+                                                </fieldset>
+                                            </fieldset>
+                                        </td>
+                                        <td align="center" class="BookContent">
+                                            <fieldset class="Parent ContentRegion">
+                                                <textarea name="description" readonly="" class="
+                                                    Parent
+                                                    PageBackground
+                                                    ContentLabel
+                                                    ContentLabelFontsizeText
+                                                    ContentScroll
+                                                    AddedBookDdescription
+                                                    "></textarea>
+                                            </fieldset>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>
